@@ -14,7 +14,7 @@ Sou um desenvolvedor em formação com foco em back-end, com experiência em pro
 
 ### 🛠️ Tecnologias
 
-<img src="https://skillicons.dev/icons?i=java,spring,angular,ts,html,css,bootstrap,git,mysql" />
+<img src="https://skillicons.dev/icons?i=java,spring,angular,ts,html,css,bootstrap,git,mysql,postgresql,js,intellij,nodejs" />
 
 ---
 
@@ -31,5 +31,5 @@ Aqui você encontrará projetos acadêmicos e práticos envolvendo:
 ### 📫 Contato
 
 - GitHub: https://github.com/MarceloSNT  
-- LinkedIn: (adicione seu link aqui)
+- LinkedIn: https://www.linkedin.com/in/marcelo-dos-santos-machado-214923318/
 
