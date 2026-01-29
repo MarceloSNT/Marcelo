@@ -30,6 +30,6 @@ Aqui você encontrará projetos acadêmicos e práticos envolvendo:
 
 ### 📫 Contato
 
-<img src="https://skillicons.dev/icons?i=github"/>: https://github.com/MarceloSNT  
+<img src="https://skillicons.dev/icons?i=github" style:height:25px/>: https://github.com/MarceloSNT  
 <img src="https://skillicons.dev/icons?i=linkedin"/>: https://www.linkedin.com/in/marcelo-dos-santos-machado-214923318/
 
